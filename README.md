@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Fadhel Muhammad Apriansyah
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e470m4p0jguftumxno3xzcaj4pysl8tawas6m16p15o&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUyaHB2cGJrMzlhZ28ycjVkNTl6YWM1emRpMHJ6cnM3MWM2NmUxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" height="300">
 </div>
 
 <div id="badges" align="center">
